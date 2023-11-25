@@ -35,14 +35,6 @@ const config = {
             to: '/docs/controls/buttons/togglebutton',
         },
         {
-            from: '/docs/controls/SplitButton',
-            to: '/docs/controls/buttons/splitbutton',
-        },
-        {
-            from: '/docs/controls/ToggleSplitButton',
-            to: '/docs/controls/buttons/togglesplitbutton',
-        },
-        {
             from: '/docs/controls/tray-icon',
             to: '/docs/controls/trayicon',
         },
